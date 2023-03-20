@@ -6,7 +6,8 @@ description: <p align="center"> # your text below (remove <br> elements if you d
   <a href="#">Lihat Resume Saya</a>
   </p>
   <br><br>
+  <p align="justify">
   Saya merupakan mahasiswa di salah satu kampus di Indonesia, yaitu Universitas Suryakancana Cianjur pada Fakultas Teknik dengan Program Studi Teknik Informatika. 
-  
+  </p>
 theme: jekyll-theme-minimal
  # your Google Analytics tracking ID here
