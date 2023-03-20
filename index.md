@@ -4,7 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title]
+[Project 1 Title](/sample_page)
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae eveniet, accusamus sed deleniti sit tempora pariatur id omnis. Ducimus error illo sit provident laborum nobis ipsam illum dolorum voluptatibus mollitia.
 
 ---
 
