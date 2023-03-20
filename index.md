@@ -4,13 +4,13 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Project 1 Title]
 
 ---
 
 ### Category Name 2
 
-- [Assignment 1]([http://example.com/](https://github.com/ridatMaulana/Portfolio/tree/main))
+- [Assignment 1](https://github.com/ridatMaulana/Portfolio/tree/main)
 
 ---
 
